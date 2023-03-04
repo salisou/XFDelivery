@@ -21,10 +21,4 @@ Cosa è stato utilizzato nello sviluppo:
 ### GIF
 ![ezgif com-resize](https://user-images.githubusercontent.com/11803107/85937386-50216000-b8d9-11ea-8fd7-dee26037f6a0.gif)
 
-## Créditos
-### Design
-https://www.uplabs.com/posts/food-delivery-app-3a6906ff-4479-455b-92af-8be386f4242d
-![preview](https://user-images.githubusercontent.com/11803107/85937404-8e1e8400-b8d9-11ea-8f96-2eaeb185347c.png)
 
-### Licença
-CON - Vedi il fascicolo LICENSE.txt

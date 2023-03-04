@@ -1,12 +1,12 @@
-# Xamarin.Forms Delivery
-Conceito de App desenvolvido com XamarinForms. </br>
-O que foi usado no desenvolvimento:
-- Padrão MVVM (sem framework)
+# Xamarin.Forms Applicazione Menu Food
+Concetto di app sviluppato con Xamarin Forms. </br>
+Cosa è stato utilizzato nello sviluppo:
+- Standard MVVM (sem framework)
 - PancakeView (https://github.com/sthewissen/Xamarin.Forms.PancakeView)
-- Embedded Fonts (https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts)
+- Aggiunta dei Fonts (https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/text/fonts)
 - Sharpnado.Shadows (https://github.com/roubachof/Sharpnado.Shadows)
-- CollectionView
-- Shapes (Path) - Nova feature do Xamarin.Forms
+- CollectionView (https://learn.microsoft.com/it-it/xamarin/xamarin-forms/user-interface/collectionview/)
+- Forme (Path) - Funzionalità Nova Xamarin.Forms
 - XamarinForms 4.7.0.968
 
 ## Screenshots
@@ -27,4 +27,4 @@ https://www.uplabs.com/posts/food-delivery-app-3a6906ff-4479-455b-92af-8be386f42
 ![preview](https://user-images.githubusercontent.com/11803107/85937404-8e1e8400-b8d9-11ea-8f96-2eaeb185347c.png)
 
 ### Licença
-MIT - Consulte o arquivo LICENSE.txt
+CON - Vedi il fascicolo LICENSE.txt
